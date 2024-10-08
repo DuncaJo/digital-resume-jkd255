@@ -1,2 +1,3 @@
 # digital-resume-jkd255
 A digital resume to practice using GitHub and HTML coding.
+My name is Joshua Duncan, and I was born in Savannah, Georgia. I lived there for about a year when my family moved to Laurel, Mississippi. We moved to Ocean Springs, Mississippi about 13 years later where I discovered my passion for electrical engineering after building a computer. I have explored the world of engineering since then, and I have committed to seeking a career in the field of electrical engineering at Mississippi State University.
